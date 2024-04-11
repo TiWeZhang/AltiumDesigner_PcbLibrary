@@ -5,7 +5,6 @@ AltiumDesigner_PcbLibrary
 [![GitHub pcb library](https://img.shields.io/badge/pcb%20library-%20v1.9-yellow.svg)](https://github.com/KitSprout/AltiumDesigner_PcbLibrary/releases/tag/v1.9)
 [![GitHub pcb library](https://img.shields.io/badge/pcb%20library-%20v0.12-yellow.svg)](https://github.com/KitSprout/AltiumDesigner_PcbLibrary/releases/tag/v0.12)
   
-<img src="https://lh6.googleusercontent.com/-Yn64tjOW7Vo/U-jG4QG0ZGI/AAAAAAAAKM8/2cyZLPPg3cU/s1600/Package.png" />
 
 Mechanical 13 用來繪製元件，與 3D Body。  
 Mechanical 14、Mechanical 15 用來表示上層元件或是下層元件，兩者預設成 Pairs，元件翻面會自動切換。  
