@@ -62,7 +62,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BIMLGALG
 
 [Document2]
 DocumentPath=PCB_ActiveLED.PcbLib
@@ -320,6 +320,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
+DocumentPath=PCB_GasSensor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QDVVXAAQ
+
+[Document18]
 DocumentPath=PCB_USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -336,7 +353,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=SCH_Active.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -353,7 +370,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMPEMDBQ
 
-[Document19]
+[Document20]
 DocumentPath=SCH_Battery.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -370,7 +387,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCVDIEMN
 
-[Document20]
+[Document21]
 DocumentPath=SCH_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -387,7 +404,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PGQKIXJH
 
-[Document21]
+[Document22]
 DocumentPath=SCH_ConnectorHDR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -404,7 +421,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKNRVPJY
 
-[Document22]
+[Document23]
 DocumentPath=SCH_IntegratedCircuit.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -421,7 +438,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULEWKTTR
 
-[Document23]
+[Document24]
 DocumentPath=SCH_Microcontroller.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -438,7 +455,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWLQUBKI
 
-[Document24]
+[Document25]
 DocumentPath=SCH_Power.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -455,7 +472,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDJUSAWS
 
-[Document25]
+[Document26]
 DocumentPath=SCH_Sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -472,7 +489,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QKTABASK
 
-[Document26]
+[Document27]
 DocumentPath=SCH_Radio.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -489,7 +506,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEEIRJJN
 
-[Document27]
+[Document28]
 DocumentPath=SCH_Mechanical.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -506,7 +523,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUHLVXTN
 
-[Document28]
+[Document29]
 DocumentPath=SCH_Module.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -523,7 +540,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCGTNGOQ
 
-[Document29]
+[Document30]
 DocumentPath=SCH_Oscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -540,7 +557,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNOVYKPG
 
-[Document30]
+[Document31]
 DocumentPath=SCH_Passive.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -557,7 +574,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXIAKEVC
 
-[Document31]
+[Document32]
 DocumentPath=SCH_SDCard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -574,7 +591,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OMJNPAJJ
 
-[Document32]
+[Document33]
 DocumentPath=SCH_Switch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -591,7 +608,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSMDKETC
 
-[Document33]
+[Document34]
 DocumentPath=SCH_USB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -608,7 +625,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGHDQNVJ
 
-[Document34]
+[Document35]
 DocumentPath=SCH_GasSensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -624,23 +641,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNXPAADF
-
-[Document35]
-DocumentPath=PCB_GasSensor.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QDVVXAAQ
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -751,7 +751,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=NatonPrint(黑白)
+TargetPrinter=NatonPrint(彩色)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
