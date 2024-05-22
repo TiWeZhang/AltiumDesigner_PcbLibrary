@@ -1,0 +1,83 @@
+Removed Parameter :GSBT11 from Part U?
+Removed Parameter :TGS2602 from Part U?
+Removed Parameter :TGS2603 from Part U?
+Removed Parameter Mfr_Name:Bosch Sensortec from Part U?
+Removed Parameter PackageReference:LGA8 from Part U?
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=MODEL New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=Manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=Model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Change Value of Parameter MFR in Part U? Old=manufacturer New=MFR
+Change Value of Parameter Package in Part U? Old=model New=Package
+Added Parameter MFR=Bosch Sensortec to Part U?
+Added Parameter Package=GSBT11 to Part U?
+Added Parameter Package=LGA8 to Part U?
+Added Parameter PartNumber=4-CH3SH to Part U?
+Added Parameter PartNumber=4OXV to Part U?
+Added Parameter PartNumber=4S to Part U?
+Added Parameter PartNumber=CH2O to Part U?
+Added Parameter PartNumber=GM-502B to Part U?
+Added Parameter PartNumber=GSBT11 to Part U?
+Added Parameter PartNumber=ME4-C6H6 to Part U?
+Added Parameter PartNumber=ME4-H2S to Part U?
+Added Parameter PartNumber=MP503 to Part U?
+Added Parameter PartNumber=MP801 to Part U?
+Added Parameter PartNumber=MP901 to Part U?
+Added Parameter PartNumber=MQ138 to Part U?
+Added Parameter PartNumber=MQ-3 to Part U?
+Added Parameter PartNumber=MR516 to Part U?
+Added Parameter PartNumber=MS1100 to Part U?
+Added Parameter PartNumber=PID-AH to Part U?
+Added Parameter PartNumber=SP3S-AQ2 to Part U?
+Added Parameter PartNumber=TGS822 to Part U?
+Added Parameter PartNumber=TGS826 to Part U?
+Added Parameter PartNumber=TGS2600 to Part U?
+Added Parameter PartNumber=TGS2602 to Part U?
+Added Parameter PartNumber=TGS2603 to Part U?
+Added Parameter PartNumber=TGS4161 to Part U?
+Added Parameter PartNumber=TGS8669 to Part U?
+Added Parameter PartNumber=WSP2110 to Part U?
+Added Parameter PartNumber=WSP7110 to Part U?

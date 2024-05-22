@@ -1,0 +1,36 @@
+Removed Parameter Link:* from Part CON?
+Removed Parameter Type:* from Part CON?
+Removed Parameter Type:* from Part CON?
+Removed Parameter Type:* from Part CON?
+Removed Parameter Type:* from Part CON?
+Removed Parameter Type:* from Part CON?
+Removed Parameter Type:* from Part CON?
+Removed Parameter Value:Type A from Part CON?
+Removed Parameter Value:Type A from Part CON?
+Removed Parameter Value:Type B from Part CON?
+Removed Parameter Value:Type B from Part CON?
+Removed Parameter Value:Type C from Part CON?
+Removed Parameter Value:Type C from Part CON?
+Change Value of Parameter Mfr_Name in Part CN? Old=Mfr? New=
+Change Value of Parameter PackageReference in Part CN? Old=PackRef? New=
+Change Value of Parameter PartNumber in Library  Old=PN? New=USB_TypeB
+Change Value of Parameter MFR in Part CN? Old=Mfr_Name New=MFR
+Change Value of Parameter Package in Part CN? Old=PackageReference New=Package
+Added Parameter MFR= to Part CON?
+Added Parameter MFR= to Part CON?
+Added Parameter MFR= to Part CON?
+Added Parameter MFR= to Part CON?
+Added Parameter MFR= to Part CON?
+Added Parameter MFR= to Part CON?
+Added Parameter Package= to Part CON?
+Added Parameter Package= to Part CON?
+Added Parameter Package= to Part CON?
+Added Parameter Package= to Part CON?
+Added Parameter Package= to Part CON?
+Added Parameter Package= to Part CON?
+Added Parameter PartNumber=USB_Micro to Part CON?
+Added Parameter PartNumber=USB_Mini to Part CON?
+Added Parameter PartNumber=USB_Plug_TypeA to Part CON?
+Added Parameter PartNumber=USB_TypeA to Part CON?
+Added Parameter PartNumber=USB_TypeC_16P to Part CON?
+Added Parameter PartNumber=USB_TypeC to Part CON?

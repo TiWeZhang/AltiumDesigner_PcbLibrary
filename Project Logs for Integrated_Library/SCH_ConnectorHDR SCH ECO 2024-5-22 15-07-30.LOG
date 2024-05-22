@@ -1,0 +1,313 @@
+Removed Parameter Type:DIP 1x1 from Part P?
+Removed Parameter Type:DIP 1x2 from Part P?
+Removed Parameter Type:DIP 1x2 from Part P?
+Removed Parameter Type:DIP 1x2 from Part P?
+Removed Parameter Type:DIP 1x2 from Part P?
+Removed Parameter Type:DIP 1x3 from Part P?
+Removed Parameter Type:DIP 1x3 from Part P?
+Removed Parameter Type:DIP 1x3 from Part P?
+Removed Parameter Type:DIP 1x3 from Part P?
+Removed Parameter Type:DIP 1x4 from Part P?
+Removed Parameter Type:DIP 1x4 from Part P?
+Removed Parameter Type:DIP 1x4 from Part P?
+Removed Parameter Type:DIP 1x5 from Part P?
+Removed Parameter Type:DIP 1x5 from Part P?
+Removed Parameter Type:DIP 1x6 from Part P?
+Removed Parameter Type:DIP 1x6 from Part P?
+Removed Parameter Type:DIP 1x6 from Part P?
+Removed Parameter Type:DIP 1x6 from Part P?
+Removed Parameter Type:DIP 1x7 from Part P?
+Removed Parameter Type:DIP 1x7 from Part P?
+Removed Parameter Type:DIP 1x8 from Part P?
+Removed Parameter Type:DIP 1x8 from Part P?
+Removed Parameter Type:DIP 1x8 from Part P?
+Removed Parameter Type:DIP 1x8 from Part P?
+Removed Parameter Type:DIP 1x10 from Part P?
+Removed Parameter Type:DIP 1x10 from Part P?
+Removed Parameter Type:DIP 1x10 from Part P?
+Removed Parameter Type:DIP 1x10 from Part P?
+Removed Parameter Type:DIP 1x11 from Part P?
+Removed Parameter Type:DIP 1x11 from Part P?
+Removed Parameter Type:DIP 2x10 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:1.27 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Removed Parameter Value:2.54 from Part P?
+Change Value of Parameter PackageReference in Part P? Old=PkgRef? New=HC-2x6-3.0
+Change Value of Parameter PartNumber in Library  Old=PN? New=HC-2x6-3.0
+Change Value of Parameter PackageReference in Part P? Old=DIP 1x4 2.54mm New=HDR1x4_2.54
+Change Value of Parameter PartNumber in Part P? Old=PN? New=HDR1x4_2.54
+Change Value of Parameter PackageReference in Part P? Old=PkgRef? New=IDC2x12_2.0
+Change Value of Parameter PartNumber in Part P? Old=PN? New=IDC2x12_2.0
+Change Value of Parameter PackageReference in Part P? Old=PkgRef? New=IDC2x15_2.0
+Change Value of Parameter PartNumber in Part P? Old=PN? New=IDC2x15_2.0
+Change Value of Parameter PackageReference in Part P? Old=PkgRef? New=IDC2x17_2.0
+Change Value of Parameter PartNumber in Part P? Old=PN? New=IDC2x17_2.0
+Change Value of Parameter MFR in Part P? Old=Mfr_Name New=MFR
+Change Value of Parameter Package in Part P? Old=PackageReference New=Package
+Change Value of Parameter Package in Part P? Old=PackageReference New=Package
+Change Value of Parameter MFR in Part P? Old=Mfr_Name New=MFR
+Change Value of Parameter Package in Part P? Old=PackageReference New=Package
+Change Value of Parameter MFR in Part P? Old=Mfr_Name New=MFR
+Change Value of Parameter Package in Part P? Old=PackageReference New=Package
+Change Value of Parameter MFR in Part P? Old=Mfr_Name New=MFR
+Change Value of Parameter Package in Part P? Old=PackageReference New=Package
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter MFR= to Part P?
+Added Parameter Package=HDR1x1_1.27 to Part P?
+Added Parameter Package=HDR1x2_1.27 to Part P?
+Added Parameter Package=HDR1x2_1.27T to Part P?
+Added Parameter Package=HDR1x2_2.54 to Part P?
+Added Parameter Package=HDR1x2_2.54T to Part P?
+Added Parameter Package=HDR1x3_1.27 to Part P?
+Added Parameter Package=HDR1x3_1.27T to Part P?
+Added Parameter Package=HDR1x3_2.54 to Part P?
+Added Parameter Package=HDR1x3_2.54T to Part P?
+Added Parameter Package=HDR1x4_1.27 to Part P?
+Added Parameter Package=HDR1x4_1.27T to Part P?
+Added Parameter Package=HDR1x4_2.54T to Part P?
+Added Parameter Package=HDR1x5_2.54 to Part P?
+Added Parameter Package=HDR1x5_2.54T to Part P?
+Added Parameter Package=HDR1x6_1.27 to Part P?
+Added Parameter Package=HDR1x6_1.27T to Part P?
+Added Parameter Package=HDR1x6_2.54 to Part P?
+Added Parameter Package=HDR1x6_2.54T to Part P?
+Added Parameter Package=HDR1x7_2.54 to Part P?
+Added Parameter Package=HDR1x7_2.54T to Part P?
+Added Parameter Package=HDR1x8_1.27 to Part P?
+Added Parameter Package=HDR1x8_1.27T to Part P?
+Added Parameter Package=HDR1x8_2.54 to Part P?
+Added Parameter Package=HDR1x8_2.54T to Part P?
+Added Parameter Package=HDR1x9_2.54_T to Part P?
+Added Parameter Package=HDR1x9_2.54 to Part P?
+Added Parameter Package=HDR1x10_1.27 to Part P?
+Added Parameter Package=HDR1x10_1.27T to Part P?
+Added Parameter Package=HDR1x10_2.54 to Part P?
+Added Parameter Package=HDR1x10_2.54T to Part P?
+Added Parameter Package=HDR1x11_2.54 to Part P?
+Added Parameter Package=HDR1x11_2.54T to Part P?
+Added Parameter Package=HDR1x12_1.27 to Part P?
+Added Parameter Package=HDR1x12_1.27T to Part P?
+Added Parameter Package=HDR1x12_2.54 to Part P?
+Added Parameter Package=HDR1x12_2.54T to Part P?
+Added Parameter Package=HDR1x13_2.54 to Part P?
+Added Parameter Package=HDR1x13_2.54T to Part P?
+Added Parameter Package=HDR1x14_2.54 to Part P?
+Added Parameter Package=HDR1x14_2.54T to Part P?
+Added Parameter Package=HDR1x15_2.54 to Part P?
+Added Parameter Package=HDR1x15_2.54T to Part P?
+Added Parameter Package=HDR1x16_1.27 to Part P?
+Added Parameter Package=HDR1x16_1.27T to Part P?
+Added Parameter Package=HDR1x16_2.54 to Part P?
+Added Parameter Package=HDR1x16_2.54T to Part P?
+Added Parameter Package=HDR1x17_1.27 to Part P?
+Added Parameter Package=HDR1x17_2.54 to Part P?
+Added Parameter Package=HDR1x17_2.54T to Part P?
+Added Parameter Package=HDR1x18_2.54 to Part P?
+Added Parameter Package=HDR1x18_2.54T to Part P?
+Added Parameter Package=HDR1x20_1.27 to Part P?
+Added Parameter Package=HDR1x20_1.27T to Part P?
+Added Parameter Package=HDR1x20_2.54 to Part P?
+Added Parameter Package=HDR1x20_2.54T to Part P?
+Added Parameter Package=HDR2x1_1.27 to Part P?
+Added Parameter Package=HDR2x1_2.54 to Part P?
+Added Parameter Package=HDR2x2_2.54 to Part P?
+Added Parameter Package=HDR2x3_2.54 to Part P?
+Added Parameter Package=HDR2x4_2.54 to Part P?
+Added Parameter Package=HDR2x5_1.27 to Part P?
+Added Parameter Package=HDR2x5_2.54 to Part P?
+Added Parameter Package=HDR2x6_1.27 to Part P?
+Added Parameter Package=HDR2x8_2.54 to Part P?
+Added Parameter Package=HDR2x10_1.27 to Part P?
+Added Parameter Package=HDR2x10_2.54 to Part P?
+Added Parameter Package=HDR2x12_1.27 to Part P?
+Added Parameter Package=HDR2x12_2.54 to Part P?
+Added Parameter Package=HDR2x13_2.54 to Part P?
+Added Parameter Package=HDR2x14_1.27 to Part P?
+Added Parameter Package=HDR2x15_1.27 to Part P?
+Added Parameter Package=HDR2x16_2.54 to Part P?
+Added Parameter Package=HDR2x18_1.27 to Part P?
+Added Parameter Package=HDR2x20_2.54 to Part P?
+Added Parameter Package=HDR3X2_90_2.54A to Part P?
+Added Parameter Package=HDR-PAD_2.54 to Part P?
+Added Parameter Package=IDC2x10_2.54 to Part P?
+Added Parameter PartNumber=HDR1x1_1.27 to Part P?
+Added Parameter PartNumber=HDR1x2_1.27 to Part P?
+Added Parameter PartNumber=HDR1x2_1.27T to Part P?
+Added Parameter PartNumber=HDR1x2_2.54 to Part P?
+Added Parameter PartNumber=HDR1x2_2.54T to Part P?
+Added Parameter PartNumber=HDR1x3_1.27 to Part P?
+Added Parameter PartNumber=HDR1x3_1.27T to Part P?
+Added Parameter PartNumber=HDR1x3_2.54 to Part P?
+Added Parameter PartNumber=HDR1x3_2.54T to Part P?
+Added Parameter PartNumber=HDR1x4_1.27 to Part P?
+Added Parameter PartNumber=HDR1x4_1.27T to Part P?
+Added Parameter PartNumber=HDR1x4_2.54T to Part P?
+Added Parameter PartNumber=HDR1x5_2.54 to Part P?
+Added Parameter PartNumber=HDR1x5_2.54T to Part P?
+Added Parameter PartNumber=HDR1x6_1.27 to Part P?
+Added Parameter PartNumber=HDR1x6_1.27T to Part P?
+Added Parameter PartNumber=HDR1x6_2.54 to Part P?
+Added Parameter PartNumber=HDR1x6_2.54T to Part P?
+Added Parameter PartNumber=HDR1x7_2.54 to Part P?
+Added Parameter PartNumber=HDR1x7_2.54T to Part P?
+Added Parameter PartNumber=HDR1x8_1.27 to Part P?
+Added Parameter PartNumber=HDR1x8_1.27T to Part P?
+Added Parameter PartNumber=HDR1x8_2.54 to Part P?
+Added Parameter PartNumber=HDR1x8_2.54T to Part P?
+Added Parameter PartNumber=HDR1x9_2.54_T to Part P?
+Added Parameter PartNumber=HDR1x9_2.54 to Part P?
+Added Parameter PartNumber=HDR1x10_1.27 to Part P?
+Added Parameter PartNumber=HDR1x10_1.27T to Part P?
+Added Parameter PartNumber=HDR1x10_2.54 to Part P?
+Added Parameter PartNumber=HDR1x10_2.54T to Part P?
+Added Parameter PartNumber=HDR1x11_2.54 to Part P?
+Added Parameter PartNumber=HDR1x11_2.54T to Part P?
+Added Parameter PartNumber=HDR1x12_1.27 to Part P?
+Added Parameter PartNumber=HDR1x12_1.27T to Part P?
+Added Parameter PartNumber=HDR1x12_2.54 to Part P?
+Added Parameter PartNumber=HDR1x12_2.54T to Part P?
+Added Parameter PartNumber=HDR1x13_2.54 to Part P?
+Added Parameter PartNumber=HDR1x13_2.54T to Part P?
+Added Parameter PartNumber=HDR1x14_2.54 to Part P?
+Added Parameter PartNumber=HDR1x14_2.54T to Part P?
+Added Parameter PartNumber=HDR1x15_2.54 to Part P?
+Added Parameter PartNumber=HDR1x15_2.54T to Part P?
+Added Parameter PartNumber=HDR1x16_1.27 to Part P?
+Added Parameter PartNumber=HDR1x16_1.27T to Part P?
+Added Parameter PartNumber=HDR1x16_2.54 to Part P?
+Added Parameter PartNumber=HDR1x16_2.54T to Part P?
+Added Parameter PartNumber=HDR1x17_1.27 to Part P?
+Added Parameter PartNumber=HDR1x17_2.54 to Part P?
+Added Parameter PartNumber=HDR1x17_2.54T to Part P?
+Added Parameter PartNumber=HDR1x18_2.54 to Part P?
+Added Parameter PartNumber=HDR1x18_2.54T to Part P?
+Added Parameter PartNumber=HDR1x20_1.27 to Part P?
+Added Parameter PartNumber=HDR1x20_1.27T to Part P?
+Added Parameter PartNumber=HDR1x20_2.54 to Part P?
+Added Parameter PartNumber=HDR1x20_2.54T to Part P?
+Added Parameter PartNumber=HDR2x1_1.27 to Part P?
+Added Parameter PartNumber=HDR2x1_2.54 to Part P?
+Added Parameter PartNumber=HDR2x2_2.54 to Part P?
+Added Parameter PartNumber=HDR2x3_2.54 to Part P?
+Added Parameter PartNumber=HDR2x4_2.54 to Part P?
+Added Parameter PartNumber=HDR2x5_1.27 to Part P?
+Added Parameter PartNumber=HDR2x5_2.54 to Part P?
+Added Parameter PartNumber=HDR2x6_1.27 to Part P?
+Added Parameter PartNumber=HDR2x8_2.54 to Part P?
+Added Parameter PartNumber=HDR2x10_1.27 to Part P?
+Added Parameter PartNumber=HDR2x10_2.54 to Part P?
+Added Parameter PartNumber=HDR2x12_1.27 to Part P?
+Added Parameter PartNumber=HDR2x12_2.54 to Part P?
+Added Parameter PartNumber=HDR2x13_2.54 to Part P?
+Added Parameter PartNumber=HDR2x14_1.27 to Part P?
+Added Parameter PartNumber=HDR2x15_1.27 to Part P?
+Added Parameter PartNumber=HDR2x16_2.54 to Part P?
+Added Parameter PartNumber=HDR2x18_1.27 to Part P?
+Added Parameter PartNumber=HDR2x20_2.54 to Part P?
+Added Parameter PartNumber=HDR3X2_90_2.54A to Part P?
+Added Parameter PartNumber=HDR-PAD_2.54 to Part P?
+Added Parameter PartNumber=IDC2x10_2.54 to Part P?

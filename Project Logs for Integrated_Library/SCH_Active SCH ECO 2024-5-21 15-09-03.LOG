@@ -1,0 +1,153 @@
+Removed Parameter FootprintType:0402 from Part D?
+Removed Parameter FootprintType:0603 from Part D?
+Removed Parameter FootprintType:0805 from Part D?
+Removed Parameter Manufacturer/制造商:M from Part D?
+Removed Parameter Manufacturer/制造商:M from Part D?
+Removed Parameter Manufacturer/制造商:M from Part D?
+Removed Parameter Manufacturer:* from Part Q?
+Removed Parameter Manufacturer:* from Part Q?
+Removed Parameter Manufacturer:* from Part Q?
+Removed Parameter Manufacturer:* from Part Q?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part Q?
+Removed Parameter Manufacturer:* from Part Q?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter Manufacturer:* from Part D?
+Removed Parameter ManufacturerID/制造商料号:MID from Part D?
+Removed Parameter ManufacturerID/制造商料号:MID from Part D?
+Removed Parameter ManufacturerID/制造商料号:MID from Part D?
+Removed Parameter MfrName:Mfr? from Part Q?
+Removed Parameter Number_devices_in_Package:1 from Part U?
+Removed Parameter PackageRefernece:PkgRef? from Part D?
+Removed Parameter PCB_Footprint: from Part U?
+Removed Parameter PositionInPackage: from Part U?
+Removed Parameter RefDes:RefDes from Part U?
+Removed Parameter RefDes:Refdes from Part U?
+Removed Parameter Specification:* from Part Q?
+Removed Parameter Specification:* from Part Q?
+Removed Parameter Specification:* from Part Q?
+Removed Parameter Specification:* from Part Q?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part Q?
+Removed Parameter Specification:* from Part Q?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Specification:* from Part D?
+Removed Parameter Supplier/供应商:S from Part D?
+Removed Parameter Supplier/供应商:S from Part D?
+Removed Parameter Supplier/供应商:S from Part D?
+Removed Parameter SupplierID/供应商料号:SID from Part D?
+Removed Parameter SupplierID/供应商料号:SID from Part D?
+Removed Parameter SupplierID/供应商料号:SID from Part D?
+Removed Parameter Type:1616 from Part D?
+Removed Parameter Type:3528 from Part D?
+Removed Parameter Type:3535 from Part D?
+Removed Parameter Type:5050 from Part D?
+Removed Parameter Type:5050 from Part D?
+Removed Parameter Type:5730 from Part D?
+Removed Parameter Type:DIP3 from Part Q?
+Removed Parameter Type:SMA from Part D?
+Removed Parameter Type:SMB from Part D?
+Removed Parameter Type:SMC from Part D?
+Removed Parameter Type:SOD123 from Part D?
+Removed Parameter Type:SOD123 from Part D?
+Removed Parameter Type:SOD323 from Part D?
+Removed Parameter Type:SOD523 from Part D?
+Removed Parameter Type:SOT23-3 from Part D?
+Removed Parameter Type:SOT32-3 from Library 
+Removed Parameter Type:SOT32-3 from Part Q?
+Removed Parameter Type:SOT32-3 from Part Q?
+Removed Parameter Type:TO252 from Part Q?
+Removed Parameter Type:TO252 from Part Q?
+Removed Parameter Type:Type from Part U?
+Removed Parameter Type:Type from Part U?
+Removed Parameter TypePackageReference:SOT23-3 from Part Q?
+Change Value of Parameter PartNumber in Part Q? Old=PN? New=NPN
+Change Value of Parameter PartNumber in Part GDT? Old=PN New=GDT
+Change Value of Parameter PartNumber in Part Q? Old=PN? New=NMOS
+Change Value of Parameter PartNumber in Part D? Old=PN? New=SBD
+Change Value of Parameter PartNumber in Part D? Old=PN? New=SBD
+Change Value of Parameter PartNumber in Part D? Old=PN New=TVS
+Change Value of Parameter PartNumber in Part D? Old=PN New=TVS
+Change Value of Parameter PartNumber in Part D? Old=PN New=TVS
+Change Value of Parameter Package in Part OC? Old=PackageReference New=Package
+Change Value of Parameter Package in Part Q? Old=PackageReference New=Package
+Change Value of Parameter Package in Part U? Old=PackageReference New=Package
+Change Value of Parameter Package in Part GDT? Old=PackageReference New=Package
+Change Value of Parameter Package in Part D? Old=PackageReference New=Package
+Change Value of Parameter Package in Part U? Old=PackageReference New=Package
+Change Value of Parameter Package in Part U? Old=PackageReference New=Package
+Change Value of Parameter Package in Part D? Old=PackageReference New=Package
+Change Value of Parameter Package in Part D? Old=PackageReference New=Package
+Change Value of Parameter Package in Part D? Old=PackageReference New=Package
+Added Parameter Package=0402 to Part D?
+Added Parameter Package=0603 to Part D?
+Added Parameter Package=0805 to Part D?
+Added Parameter Package=1616 to Part D?
+Added Parameter Package=3528 to Part D?
+Added Parameter Package=3535 to Part D?
+Added Parameter Package=5050 to Part D?
+Added Parameter Package=5050 to Part D?
+Added Parameter Package=5730 to Part D?
+Added Parameter Package=DIP3 to Part Q?
+Added Parameter Package=SMA to Part D?
+Added Parameter Package=SMB to Part D?
+Added Parameter Package=SMC to Part D?
+Added Parameter Package=SOD123 to Part D?
+Added Parameter Package=SOD123 to Part D?
+Added Parameter Package=SOD323 to Part D?
+Added Parameter Package=SOD523 to Part D?
+Added Parameter Package=SOT23-3 to Part D?
+Added Parameter Package=SOT32-3 to Part Q?
+Added Parameter Package=SOT32-3 to Part Q?
+Added Parameter Package=SOT32-3 to Part Q?
+Added Parameter Package=TO252 to Part Q?
+Added Parameter Package=TO252 to Part Q?
+Added Parameter Package= to Part Q?
+Added Parameter Package= to Part D?
+Added Parameter Package= to Library 
+Added Parameter Package= to Part U?
+Added Parameter PartNumber=DIODE to Part D?
+Added Parameter PartNumber=DIODE to Part D?
+Added Parameter PartNumber=DIODE to Part D?
+Added Parameter PartNumber=DIODE to Part D?
+Added Parameter PartNumber=DIODE to Part D?
+Added Parameter PartNumber=DIODE to Part D?
+Added Parameter PartNumber=LED to Part D?
+Added Parameter PartNumber=LED to Part D?
+Added Parameter PartNumber=LED to Part D?
+Added Parameter PartNumber=LED to Part D?
+Added Parameter PartNumber=LED to Part D?
+Added Parameter PartNumber=LED to Part D?
+Added Parameter PartNumber=LED to Part D?
+Added Parameter PartNumber=LED to Part D?
+Added Parameter PartNumber=LED to Part D?
+Added Parameter PartNumber=NMOS to Part Q?
+Added Parameter PartNumber=NPN to Part Q?
+Added Parameter PartNumber=PMOS to Part Q?
+Added Parameter PartNumber=PNP to Part Q?
+Added Parameter PartNumber=PNP to Part Q?
+Added Parameter PartNumber=PNP to Part Q?
+Added Parameter PartNumber=SBD to Part D?
+Added Parameter PartNumber=SBD to Part D?

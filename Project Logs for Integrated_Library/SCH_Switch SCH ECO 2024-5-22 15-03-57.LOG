@@ -1,0 +1,60 @@
+Removed Parameter Value:2.8x6.6mm from Part S?
+Removed Parameter Value:2P from Part S?
+Removed Parameter value:3.4x3.5mm from Part K?
+Removed Parameter value:3.5x3.55mm from Part K?
+Removed Parameter value:3x4mm from Part K?
+Removed Parameter value:3x6mm from Part K?
+Removed Parameter Value:4.2x8.6mm from Part S?
+Removed Parameter Value:6P from Part S?
+Removed Parameter Value:8P from Part S?
+Removed Parameter value:12x11mm from Library 
+Removed Parameter Value:* from Part JS?
+Removed Parameter Value:* from Part S?
+Removed Parameter Value:* from Part S?
+Removed Parameter Value:* from Part S?
+Change Value of Parameter PartNumber in Part K? Old=3x4mm New=SMD, 3x4mm
+Change Value of Parameter type in Part K? Old=TACT 2P New=SMD, 3x4mm
+Change Value of Parameter type in Part K? Old=type New=Package
+Change Value of Parameter type in Part K? Old=type New=Package
+Change Value of Parameter type in Part K? Old=type New=Package
+Change Value of Parameter MFR in Part K? Old=PackageReference New=MFR
+Change Value of Parameter type in Part K? Old=type New=Package
+Change Value of Parameter type in Part K? Old=type New=Package
+Change Value of Parameter type in Part K? Old=type New=Package
+Change Value of Parameter Package in Part JS? Old=Type New=Package
+Change Value of Parameter Package in Part S? Old=Type New=Package
+Change Value of Parameter Package in Part S? Old=Type New=Package
+Change Value of Parameter Package in Part S? Old=Type New=Package
+Change Value of Parameter Package in Part S? Old=Type New=Package
+Change Value of Parameter Package in Part S? Old=Type New=Package
+Change Value of Parameter Package in Part S? Old=Type New=Package
+Change Value of Parameter Package in Part S? Old=Type New=Package
+Change Value of Parameter Package in Part S? Old=Type New=Package
+Added Parameter MFR= to Part K?
+Added Parameter MFR= to Part K?
+Added Parameter MFR= to Part K?
+Added Parameter MFR= to Part K?
+Added Parameter MFR= to Part K?
+Added Parameter MFR= to Part JS?
+Added Parameter MFR= to Part S?
+Added Parameter MFR= to Part S?
+Added Parameter MFR= to Part S?
+Added Parameter MFR= to Part S?
+Added Parameter MFR= to Part S?
+Added Parameter MFR= to Part S?
+Added Parameter MFR= to Part S?
+Added Parameter MFR= to Part S?
+Added Parameter PartNumber=DPST to Part S?
+Added Parameter PartNumber=PushLever 3P to Part K?
+Added Parameter PartNumber=RotaryEncoder to Part S?
+Added Parameter PartNumber=SPDT 3P to Part S?
+Added Parameter PartNumber=SPDT 3P to Part S?
+Added Parameter PartNumber=SPST 2P to Part S?
+Added Parameter PartNumber=SPST 2P to Part S?
+Added Parameter PartNumber=SPST 6P to Part S?
+Added Parameter PartNumber=SPST 8P to Part S?
+Added Parameter PartNumber=TACT 2P to Part K?
+Added Parameter PartNumber=TACT 4P to Part K?
+Added Parameter PartNumber=TACT 4P to Part K?
+Added Parameter PartNumber=TACT 4P to Part K?
+Added Parameter PartNumber= to Part JS?

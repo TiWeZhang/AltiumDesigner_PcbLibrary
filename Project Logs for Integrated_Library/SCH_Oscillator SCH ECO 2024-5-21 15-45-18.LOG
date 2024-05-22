@@ -1,0 +1,54 @@
+Removed Parameter Manufacturer:* from Part X?
+Removed Parameter Manufacturer:* from Part X?
+Removed Parameter Manufacturer:* from Part X?
+Removed Parameter Manufacturer:* from Part X?
+Removed Parameter Manufacturer:* from Part X?
+Removed Parameter Manufacturer:* from Part X?
+Removed Parameter Manufacturer:* from Part X?
+Removed Parameter Note:* from Part X?
+Removed Parameter Note:* from Part X?
+Removed Parameter Note:* from Part X?
+Removed Parameter Note:* from Part X?
+Removed Parameter Note:* from Part X?
+Removed Parameter Note:* from Part X?
+Removed Parameter Note:* from Part X?
+Removed Parameter Note:¡À?ppm from Part X?
+Removed Parameter Note:¡À?ppm from Part X?
+Removed Parameter PackageReference:SMD3215_2P from Part X?
+Removed Parameter PackageReference:SMD3225_4P from Part X?
+Change Value of Parameter PartNumber in Part X? Old=PN? New=XTAL_3215_2P
+Change Value of Parameter PartNumber in Part X? Old=PN? New=XTAL_3225_4P
+Change Value of Parameter Note in Library  Old=Specification New=Note
+Change Value of Parameter Type in Part X? Old=Type New=Package
+Change Value of Parameter Note in Part X? Old=Specification New=Note
+Change Value of Parameter Type in Part X? Old=Type New=Package
+Change Value of Parameter Note in Part X? Old=Specification New=Note
+Change Value of Parameter Type in Part X? Old=Type New=Package
+Change Value of Parameter Note in Part X? Old=Specification New=Note
+Change Value of Parameter Type in Part X? Old=Type New=Package
+Change Value of Parameter Note in Part X? Old=Specification New=Note
+Change Value of Parameter Type in Part X? Old=Type New=Package
+Change Value of Parameter MFR in Part X? Old=Mfr_Name New=MFR
+Change Value of Parameter Note in Part X? Old=Specification New=Note
+Change Value of Parameter Type in Part X? Old=Type New=Package
+Change Value of Parameter MFR in Part X? Old=Mfr_Name New=MFR
+Change Value of Parameter Note in Part X? Old=Specification New=Note
+Change Value of Parameter Type in Part X? Old=Type New=Package
+Added Parameter MFR=Mfr? to Part X?
+Added Parameter MFR=Mfr? to Part X?
+Added Parameter MFR=Mfr? to Part X?
+Added Parameter MFR=Mfr? to Part X?
+Added Parameter MFR=Mfr? to Part X?
+Added Parameter MFR=Mfr? to Part X?
+Added Parameter MFR=Mfr? to Part X?
+Added Parameter Note=¡À10ppm to Part X?
+Added Parameter Note=¡À10ppm to Part X?
+Added Parameter Package=XTAL_3215_2P to Part X?
+Added Parameter Package=XTAL_3225_4P to Part X?
+Added Parameter PartNumber=OSC_2520_4P to Part X?
+Added Parameter PartNumber=OSC_3225_4P to Part X?
+Added Parameter PartNumber=XTAL_32.768k_2P to Part X?
+Added Parameter PartNumber=XTAL_2016_4P to Part X?
+Added Parameter PartNumber=XTAL_2520_4P to Part X?
+Added Parameter PartNumber=XTAL_3225_2P to Part X?
+Added Parameter PartNumber=XTAL_5032_2P to Part X?
